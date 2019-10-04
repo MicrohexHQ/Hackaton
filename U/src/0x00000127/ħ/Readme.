@@ -1,0 +1,16 @@
+Encodings
+
+HTML Entity     (decimal)	&#295;
+HTML Entity     (hex)	&#x127;
+
+How to type in Microsoft Windows Alt +0127
+
+UTF-8  (hex)	        0xC4 0xA7 (c4a7)
+UTF-8  (binary)	        11000100:10100111
+UTF-16 (hex)	        0x0127 (0127)
+UTF-16 (decimal)	295
+UTF-32 (hex)	        0x00000127 (0127)
+UTF-32 (decimal)	295
+
+C/C++/Java source code	"\u0127"
+Python source code	u"\u0127
